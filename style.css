@@ -1,0 +1,19 @@
+body {
+  margin:0;
+  font-family: Arial;
+  background: linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+  color:white;
+  text-align:center;
+}
+
+.hero {
+  margin-top:15%;
+}
+
+.btn {
+  padding:15px 30px;
+  background:#6a11cb;
+  color:white;
+  text-decoration:none;
+  border-radius:30px;
+}
